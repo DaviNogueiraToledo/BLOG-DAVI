@@ -1,0 +1,51 @@
+/* Adicionando estilos ao conteúdo principal (main) */
+main {
+    text-align: center;
+    padding: 50px;
+}
+
+h2 {
+    color: #3498db;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+/* Estilos para seções adicionais, ajuste conforme necessário */
+.section {
+    margin-top: 40px;
+}
+
+/* Estilos para formulários (exemplo para a página de contato) */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+/* Estilos para rodapé */
+footer {
+    margin-top: 20px;
+    text-align: center;
+    color: #888;
+    font-size: 14px;
+}
+
+/* Adicione mais estilos conforme necessário para diferentes elementos ou seções */
